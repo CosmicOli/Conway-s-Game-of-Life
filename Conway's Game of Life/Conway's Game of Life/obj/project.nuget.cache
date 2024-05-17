@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MjTu5XjAeRWNkjWEuA2+hzAzxoJg2WEUbRcpfaSY35D4ya7+LI5RcskijDbxpvi923LraoA+YES69eweTxjPcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\OneDrive - University of Birmingham\\Personal\\Programing\\Programming\\Programming\\School Work\\Forms\\Conway's Game of Life\\Conway's Game of Life\\Conway's Game of Life.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
